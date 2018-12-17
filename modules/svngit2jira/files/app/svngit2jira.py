@@ -618,7 +618,6 @@ def main():
                 projects.sort()
                 logging.info("Found the following trackers: %s", ', '.join(projects))
 
-
 ##############
 # Daemonizer #
 ##############
